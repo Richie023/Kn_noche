@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Martes\\Kn_web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCDC627-9FD5-4372-B82C-B256B33D7299}|KN_Web\\KN_Web.csproj|c:\\martes\\kn_web\\kn_web\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCDC627-9FD5-4372-B82C-B256B33D7299}|KN_Web\\KN_Web.csproj|solutionrelative:kn_web\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Martes\\Kn_web\\KN_Web\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "KN_Web\\Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Martes\\Kn_web\\KN_Web\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "KN_Web\\Models\\UsuarioModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:21:16.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
