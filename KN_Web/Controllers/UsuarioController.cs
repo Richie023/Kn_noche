@@ -23,10 +23,15 @@ namespace KN_Web.Controllers
         {
             var respuesta = usuarioM.IniciarSesion(user);
 
+
             if (respuesta)
                 return RedirectToAction("Home", "Usuario");
             else
-                return View();
+            {
+                ViewBag.msj = "Sus credenciales no son correctos ";
+                return View(); //viewbag es una variable que se puede usar en la vista para devolver datos del controlador a la vista
+            }
+               
         }
 
 
